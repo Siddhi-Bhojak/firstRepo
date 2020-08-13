@@ -1,2 +1,2 @@
 # firstRepo
-gsjkxdgejkdxkjdkxnedngdhwgjhwhcgw
+This is a practise repo. This includes coding chellenges.
